@@ -16,10 +16,12 @@ Confgurações para utilização e algumas informações
 
 7 - Download do consumer da branch consumer.
 
-8 - Rodar o programa da api o qual usa Java 15 em uma plataforma de sua preferência. Não é necessário qualquer configuração adicional.
+8 - o Projeto também pode ser baixado em sua totalidade na branch main.
 
-9 - Rodar o consumer que usa C# em uma plataforma de sua preferência e executar as operações pedidias na tarefa.
+9 - Rodar o programa da api o qual usa Java 15 em uma plataforma de sua preferência. Não é necessário qualquer configuração adicional.
 
-10 - Qualquer dúvida estou a disposição. 
+10 - Rodar o consumer que usa C# em uma plataforma de sua preferência e executar as operações pedidias na tarefa.
+
+11 - Qualquer dúvida estou a disposição. 
 
 
