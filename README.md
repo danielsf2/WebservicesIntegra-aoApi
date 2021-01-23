@@ -11,3 +11,15 @@ Confgurações para utilização e algumas informações
 4 - O arquivo na pasta resources.Application.properties deve ser editado de acordo com as configurações de seu banco de dados e da sua máquina.
 
 5 - Para criação do consumer foi utilizado o VisualStudioEnterprise, a linguagem C# e o padrão windowsForms.
+
+6 - Download da api na branch api.
+
+7 - Download do consumer da branch consumer.
+
+8 - Rodar o programa da api o qual usa Java 15 em uma plataforma de sua preferência. Não é necessário qualquer configuração adicional.
+
+9 - Rodar o consumer que usa C# em uma plataforma de sua preferência e executar as operações pedidias na tarefa.
+
+10 - Qualquer dúvida estou a disposição. 
+
+
