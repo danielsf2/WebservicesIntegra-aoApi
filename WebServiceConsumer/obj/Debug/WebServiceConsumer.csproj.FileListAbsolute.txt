@@ -1,0 +1,13 @@
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\bin\Debug\WebServiceConsumer.exe.config
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\bin\Debug\WebServiceConsumer.exe
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\bin\Debug\WebServiceConsumer.pdb
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\obj\Debug\WebServiceConsumer.csprojAssemblyReference.cache
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\obj\Debug\WebServiceConsumer.formTurma.resources
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\obj\Debug\WebServiceConsumer.Properties.Resources.resources
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\obj\Debug\WebServiceConsumer.csproj.GenerateResource.cache
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\obj\Debug\WebServiceConsumer.csproj.CoreCompileInputs.cache
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\obj\Debug\WebServiceConsumer.exe
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\obj\Debug\WebServiceConsumer.pdb
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\bin\Debug\Newtonsoft.Json.dll
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\bin\Debug\Newtonsoft.Json.xml
+G:\ERE 2021\WebServices\WebServiceConsumer\WebServiceConsumer\obj\Debug\WebServiceConsumer.csproj.CopyComplete
